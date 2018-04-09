@@ -11,4 +11,3 @@ Feature: To check if all the syntax are mapped correctly.
     And To Check And
     When To Check When
     Then To Check Then
-

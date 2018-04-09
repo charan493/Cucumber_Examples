@@ -11,4 +11,3 @@ Feature: To check if we can read data from feature file.
     And To Check And_ "from Features"
     When To Check When_ "from Features"
     Then To Check Then_ "from Features"
-
