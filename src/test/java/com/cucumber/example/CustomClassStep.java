@@ -6,14 +6,13 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Author: Srinivas srinivas_padmakar@yahoo.com
  * Cucumber test example for Scenario Outline.
  */
-public class CustomClassTest {
+public class CustomClassStep {
 
 
     @Given("^To Check Given From Table Dynamically$")
@@ -58,11 +57,11 @@ public class CustomClassTest {
         String when;
         String then;
 
-        public Values(String sendGiven, String sendAnd, String sendWhen, String sendThen) {
-            given = sendGiven;
-            and = sendAnd;
-            when = sendWhen;
-            then = sendThen;
+        public Values(String getGiven, String getAnd, String getWhen, String getThen) {
+            given = getGiven;
+            and = getAnd;
+            when = getWhen;
+            then = getThen;
         }
     }
 }

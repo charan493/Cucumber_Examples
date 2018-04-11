@@ -9,7 +9,7 @@ import cucumber.api.java.en.When;
  * Author: Srinivas srinivas_padmakar@yahoo.com
  * Cucumber test basic example.
  */
-public class ExampleTest {
+public class ExampleStep {
     @Given("^To Check Given$")
     public void to_Check_Given() {
         System.out.println("Inside Given");

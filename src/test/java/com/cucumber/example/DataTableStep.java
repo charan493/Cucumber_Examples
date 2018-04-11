@@ -12,7 +12,7 @@ import java.util.List;
  * Author: Srinivas srinivas_padmakar@yahoo.com
  * Cucumber test example to fetch data from Data Tables in feature file.
  */
-public class DataTableTest {
+public class DataTableStep {
 
     @Given("^To Check Given From Table$")
     public void toCheckGivenFromTable(DataTable table) {

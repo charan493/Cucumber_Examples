@@ -9,7 +9,7 @@ import cucumber.api.java.en.When;
  * Author: Srinivas srinivas_padmakar@yahoo.com
  * Cucumber test example to get data from the feature file.
  */
-public class ParameterTest {
+public class ParameterStep {
 
     @When("^To Check When_ \"([^\"]*)\"$")
     public void to_Check_When_From_Feature(String When) {
