@@ -1,5 +1,5 @@
 #Author: Srinivas srinivas_padmakar@yahoo.com
-#Keywords Summary : Cucumber basic examples - DataTableTest
+#Keywords Summary : Cucumber basic examples - DataTableStep
 #Feature: To check if we are able to fetch Data from tables.
 
 @tag

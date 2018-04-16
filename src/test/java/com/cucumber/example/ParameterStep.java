@@ -7,7 +7,7 @@ import cucumber.api.java.en.When;
 
 /**
  * Author: Srinivas srinivas_padmakar@yahoo.com
- * Cucumber test example to get data from the feature file.
+ * Cucumber test example to get data as parameter from the feature file.
  */
 public class ParameterStep {
 

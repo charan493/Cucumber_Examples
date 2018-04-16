@@ -5,6 +5,10 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
+/**
+ * Author: Srinivas srinivas_padmakar@yahoo.com
+ * Cucumber test example for Scenario Outline.
+ */
 public class ScenarioOutlineStep {
 
     @Given("^To Check given From Table ([^\"]*) is fetched$")

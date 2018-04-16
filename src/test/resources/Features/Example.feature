@@ -1,5 +1,5 @@
 #Author: Srinivas srinivas_padmakar@yahoo.com
-#Keywords Summary : Cucumber basic examples - ExampleTest
+#Keywords Summary : Cucumber basic examples - ExampleStep
 #Feature: To check if cucumber syntax are mapped to steps.
 
 @tag

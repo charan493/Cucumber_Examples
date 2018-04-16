@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Author: Srinivas srinivas_padmakar@yahoo.com
- * Cucumber test example for Scenario Outline.
+ * Cucumber test example for Custom Class.
  */
 public class CustomClassStep {
 

@@ -1,5 +1,5 @@
 #Author: Srinivas srinivas_padmakar@yahoo.com
-#Keywords Summary : Cucumber basic examples - ParameterTest
+#Keywords Summary : Cucumber basic examples - ParameterStep
 #Feature: To check if we can read data from feature file.
 
 @tag

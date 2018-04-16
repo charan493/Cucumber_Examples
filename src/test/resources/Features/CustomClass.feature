@@ -1,5 +1,5 @@
 #Author: Srinivas srinivas_padmakar@yahoo.com
-#Keywords Summary : Cucumber basic examples - CustomeClassTest
+#Keywords Summary : Cucumber basic examples - CustomClassStep
 #Feature: To check if we are able to fetch Data from tables dynamically.
 
 @tag

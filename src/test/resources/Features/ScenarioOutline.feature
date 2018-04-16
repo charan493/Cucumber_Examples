@@ -1,5 +1,5 @@
 #Author: Srinivas srinivas_padmakar@yahoo.com
-#Keywords Summary : Cucumber basic examples - ScenarioOutlineTest
+#Keywords Summary : Cucumber basic examples - ScenarioOutlineStep
 #Feature: To check if we are able to fetch Data for
 # different Scenarios using Scenario Outline.
 
